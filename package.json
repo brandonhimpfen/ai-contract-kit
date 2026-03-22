@@ -1,0 +1,38 @@
+{
+  "name": "ai-contract-kit",
+  "version": "1.0.0",
+  "description": "A lightweight contract layer for building reliable AI systems with structured inputs and outputs.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "llm",
+    "ai infrastructure",
+    "contracts",
+    "schema",
+    "validation",
+    "prompt engineering",
+    "ai systems",
+    "inference",
+    "structured outputs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonhimpfen/ai-contract-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/ai-contract-kit/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/ai-contract-kit#readme",
+  "author": "Brandon Himpfen",
+  "license": "MIT"
+}
