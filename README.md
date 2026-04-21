@@ -1,5 +1,7 @@
 # ai-contract-kit
 
+[![DOI](https://zenodo.org/badge/1188395393.svg)](https://doi.org/10.5281/zenodo.19684927)
+
 A tiny, practical contract layer for AI systems.
 
 This project solves a very common problem in AI applications: inputs and outputs are often treated as loose text instead of predictable interfaces. That makes systems harder to validate, debug, monitor, and improve.
